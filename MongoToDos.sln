@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MongoToDos", "MongoTodos\MongoToDos.csproj", "{465CEBF7-9576-4143-90D0-185F9A1BF726}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MongoDbClient.Lib", "MongoDbClient.Lib\MongoDbClient.Lib.csproj", "{C44C176D-8693-4A7A-B896-C15A19AE073D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{465CEBF7-9576-4143-90D0-185F9A1BF726}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{465CEBF7-9576-4143-90D0-185F9A1BF726}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{465CEBF7-9576-4143-90D0-185F9A1BF726}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{465CEBF7-9576-4143-90D0-185F9A1BF726}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C44C176D-8693-4A7A-B896-C15A19AE073D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C44C176D-8693-4A7A-B896-C15A19AE073D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C44C176D-8693-4A7A-B896-C15A19AE073D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C44C176D-8693-4A7A-B896-C15A19AE073D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
